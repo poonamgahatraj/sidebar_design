@@ -1,0 +1,31 @@
+.container
+{
+    display:flex;
+    height:100vh;
+   
+}
+
+.nav-bar
+{
+   width:10%;
+   height:100vh;
+    background:black;  
+    position:fixed;
+}
+
+.content
+{
+    width:90%;
+    height:100vh;
+    background:white;
+    margin-left: 10%;
+}
+.content1
+{
+    margin-left:10px;
+}
+
+li:hover
+{
+    background:grey;
+}
